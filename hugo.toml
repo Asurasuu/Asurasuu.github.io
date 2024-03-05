@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru-ru'
+theme = 'nightfall'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+user = "./Asruasuu/."
+published = false
+readingTime = false
+#hostname = "asurasuu.ru"
+
+  [params.author]
+    name = "Andrey Novoselov"
+    email = "andrey.novoselov.v@yandex.ru"
+
+  [[params.social]]
+    key = 0
+    name = "github"
+    url = "https://github.com/Asurasuu"
+    icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+  [[params.social]]
+    key = 1
+    name = "telegram"
+    url = "https://t.me/asurasuutargz"
+    icon = "fa-brands fa-telegram"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
