@@ -1,7 +1,7 @@
 +++
 title = 'Личный VPN по цене шаурмы'
 date = 2024-03-04T18:29:25+06:00
-draft = true
+draft = false
 tags = ['vpn']
 categories = ['туториалы']
 +++

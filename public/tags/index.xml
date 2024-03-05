@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on ./Asurasuu/.</title>
     <link>https://asurasuu.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on ./Asurasuu/.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <managingEditor>andrey.novoselov.v@yandex.ru (Andrey Novoselov)</managingEditor>
     <webMaster>andrey.novoselov.v@yandex.ru (Andrey Novoselov)</webMaster>
+    <lastBuildDate>Mon, 04 Mar 2024 18:29:25 +0600</lastBuildDate>
     <atom:link href="https://asurasuu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vpn</title>
+      <link>https://asurasuu.github.io/tags/vpn/</link>
+      <pubDate>Mon, 04 Mar 2024 18:29:25 +0600</pubDate><author>andrey.novoselov.v@yandex.ru (Andrey Novoselov)</author>
+      <guid>https://asurasuu.github.io/tags/vpn/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

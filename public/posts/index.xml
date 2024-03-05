@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>./Asurasuu/.</title>
-    <link>https://asurasuu.github.io/</link>
-    <description>Recent content on ./Asurasuu/.</description>
+    <title>Posts on ./Asurasuu/.</title>
+    <link>https://asurasuu.github.io/posts/</link>
+    <description>Recent content in Posts on ./Asurasuu/.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <managingEditor>andrey.novoselov.v@yandex.ru (Andrey Novoselov)</managingEditor>
     <webMaster>andrey.novoselov.v@yandex.ru (Andrey Novoselov)</webMaster>
     <lastBuildDate>Mon, 04 Mar 2024 18:29:25 +0600</lastBuildDate>
-    <atom:link href="https://asurasuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://asurasuu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Личный VPN по цене шаурмы</title>
       <link>https://asurasuu.github.io/posts/personal-vpn/</link>

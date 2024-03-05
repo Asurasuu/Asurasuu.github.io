@@ -1,6 +1,7 @@
 baseURL = 'https://asurasuu.github.io'
 languageCode = 'ru-ru'
 theme = 'nightfall'
+title = './Asurasuu/.'
 
 [taxonomies]
   tag = "tags"
