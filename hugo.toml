@@ -16,12 +16,15 @@ readingTime = false
   [params.author]
     name = "Andrey Novoselov"
     email = "andrey.novoselov.v@yandex.ru"
+    
+  [params.meta]
+    favicon = true
 
   [[params.social]]
     key = 0
     name = "github"
     url = "https://github.com/Asurasuu"
-    icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+    icon = "fa-brands fa-github"
   [[params.social]]
     key = 1
     name = "telegram"
